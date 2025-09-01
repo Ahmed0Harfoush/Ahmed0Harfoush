@@ -123,4 +123,6 @@
 ---
 
 ## 🐍 A Snake Eating my Contributions Graph
-<p align="center"><img src="https://github.com/Ahmed0Harfoush/Ahmed0Harfoush/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/></p>
+<p align="center">
+  <img src="https://github.com/Ahmed0Harfoush/Ahmed0Harfoush/blob/output/github-snake.svg" alt="Snake animation" />
+</p>
