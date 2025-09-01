@@ -22,7 +22,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Al Ryadal University](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Al Ryadal University](https://rst.edu.eg/?lang=ar).
 - :trophy: 🏆 2x `ECPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem` through the power of AI.
 - :Interests: I am a Competitive Programmer and AI Engineering enthusiast, with strong interests in `ML`, `Deep Learning`, `Computer Vision` and `Data Science`.
