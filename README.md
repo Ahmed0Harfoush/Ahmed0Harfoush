@@ -101,9 +101,13 @@
 <b>Note:</b> Top languages is only a metric of my public code and doesn't reflect skill level.
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-[![Ahmed0Harfoush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed0Harfoush&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details>
+  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+  [![Ahmed0Harfoush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed0Harfoush&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </details>
+
 
 <details><summary><h3>🏆 Git profile Trophies</h3></summary>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed0Harfoush&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Ahmed0Harfoush"/></p>
