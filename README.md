@@ -109,10 +109,21 @@
 </details>
 
 
-<details><summary><h3>🏆 Git profile Trophies</h3></summary>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed0Harfoush&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Ahmed0Harfoush"/></p>
-[![@Ahmed0Harfoush's Holopin board](https://holopin.io/api/user/board?user=Ahmed0Harfoush)](https://holopin.io/@Ahmed0Harfoush)
+<details>
+  <summary><h3>🏆 Git profile Trophies</h3></summary>
+  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ahmed0Harfoush&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Ahmed0Harfoush"/>
+  </p>
+
+  <p align="center">
+    <a href="https://holopin.io/@Ahmed0Harfoush">
+      <img src="https://holopin.io/api/user/board?user=Ahmed0Harfoush" alt="@Ahmed0Harfoush's Holopin board" />
+    </a>
+  </p>
+
 </details>
+
 
 <details><summary><h3>📂 My Repositories</h3></summary>
 <p align="center">
