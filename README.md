@@ -51,9 +51,30 @@
 </p>
 
 ---
-
 ## 🛠️ My Skills
-(🔹 كل الأقسام الخاصة بالـ Skills زي الـ AI, ML, Programming, Tools, IDEs, CP, OS … خليتها زي ما انت حاططها لأنك كاتبها احترافي جدًا ومتكاملة 👏)
+
+### 🤖 Artificial Intelligence & Machine Learning
+<p align="center">
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white"></a>
+  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white"></a>
+  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white"></a>
+</p>
+
+### 📊 Data Science & Analytics
+<p align="center">
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=plotly&logoColor=black"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%230074C1.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+</p>
+
+### 🖥️ Programming Languages
+<p align="center">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"></a>
+</p>
 
 ---
 
