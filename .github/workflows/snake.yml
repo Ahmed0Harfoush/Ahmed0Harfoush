@@ -2,26 +2,31 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # يشتغل كل يوم
-  workflow_dispatch:     # تقدر تشغله يدوي من Actions
+    - cron: "0 0 * * *"   # يشتغل كل يوم
+  workflow_dispatch:       # تقدر تشغله يدوي من Actions
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Ahmed0Harfoush
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Push Snake to the output branch
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
