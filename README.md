@@ -33,15 +33,17 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming & Data Science Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+  <a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+  <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
+  <a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344"><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50"></a>
+  <a href="https://www.kaggle.com/yourusername"><img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="80"/></a>
+  <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="50"/></a>
+  <a href="https://jobeter.com/yourprofile"><img src="https://i.ibb.co/SrXyGpM/jobeter-logo.png" alt="Jobeter" width="80"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
