@@ -127,13 +127,24 @@
 
 <details><summary><h3>📂 My Repositories</h3></summary>
 <p align="center">
-	<a href="[https://github.com/Ahmed0Harfoush/AI-Projects](https://github.com/Ahmed0Harfoush/Coffee-Health)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=AI-Projects&theme=tokyonight"/></a>
-	<a href="https://github.com/Ahmed0Harfoush/Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=Machine-Learning&theme=tokyonight"/></a>
-	<a href="https://github.com/Ahmed0Harfoush/Deep-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=Deep-Learning&theme=tokyonight"/></a>
-	<a href="https://github.com/Ahmed0Harfoush/Computer-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=Computer-Vision&theme=tokyonight"/></a>
-	<a href="https://github.com/Ahmed0Harfoush/NLP-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=NLP-Projects&theme=tokyonight"/></a>
+	<a href="https://github.com/Ahmed0Harfoush/AI-Projects">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=AI-Projects&theme=tokyonight"/>
+	</a>
+	<a href="https://github.com/Ahmed0Harfoush/Machine-Learning">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=Machine-Learning&theme=tokyonight"/>
+	</a>
+	<a href="https://github.com/Ahmed0Harfoush/Deep-Learning">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=Deep-Learning&theme=tokyonight"/>
+	</a>
+	<a href="https://github.com/Ahmed0Harfoush/Computer-Vision">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=Computer-Vision&theme=tokyonight"/>
+	</a>
+	<a href="https://github.com/Ahmed0Harfoush/NLP-Projects">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=NLP-Projects&theme=tokyonight"/>
+	</a>
 </p>
 </details>
+
 
 ---
 
