@@ -127,10 +127,10 @@
 
 <details><summary><h3>📂 My Repositories</h3></summary>
 <p align="center">
-	<a href=[https://github.com/Ahmed0Harfoush/AI-Projects](https://github.com/Ahmed0Harfoush/Coffee-Health.git)>
+	<a href="https://github.com/Ahmed0Harfoush/AI-Projects">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=AI-Projects&theme=tokyonight"/>
 	</a>
-	<a href=[https://github.com/Ahmed0Harfoush/Machine-Learning](https://github.com/Ahmed0Harfoush/Cancer.git)>
+	<a href="https://github.com/Ahmed0Harfoush/Machine-Learning">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=Machine-Learning&theme=tokyonight"/>
 	</a>
 	<a href="https://github.com/Ahmed0Harfoush/Deep-Learning">
@@ -144,6 +144,7 @@
 	</a>
 </p>
 </details>
+
 
 
 ---
