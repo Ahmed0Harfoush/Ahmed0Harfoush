@@ -142,6 +142,9 @@
 	<a href="https://github.com/Ahmed0Harfoush/-Face-Recognition-Attendance-System-">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=-Face-Recognition-Attendance-System-&theme=tokyonight"/>
 	</a>
+	<a href="https://github.com/Ahmed0Harfoush/Gesture-Based-Volume-Control">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed0Harfoush&repo=Gesture-Based-Volume-Control&theme=tokyonight"/>
+	</a>
 </p>
 </details>
 
