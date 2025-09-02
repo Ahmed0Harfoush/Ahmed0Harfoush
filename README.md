@@ -21,7 +21,7 @@
 - 🔭 Interests: `ML`, `Deep Learning`, `Computer Vision`, `Data Science`.
 - 📚 Currently shaping my path as an **AI Engineer**.
 - 🤓 Always eager to **learn new things**.
-- 💼 Open for new **job opportunities** → [My Resume]().
+- 💼 Open for new **job opportunities** → [My Resume](https://www.linkedin.com/in/ahmed-harfoush-7b623a28b).
 - 🌐 Check my **portfolio website** → [My Website]().
 
 ---
