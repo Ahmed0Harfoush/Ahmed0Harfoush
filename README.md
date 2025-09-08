@@ -15,7 +15,7 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
-- 🎓 Junior at [Faculty of Computers & Informatics](https://rst.edu.eg/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/?lang=ar) – [Al Ryadal University](https://rst.edu.eg/?lang=ar).
+- 🎓 Junior at [Faculty of Computers & Informatics](https://rst.edu.eg/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/?lang=ar) – [Al Ryadal University](https://rst.edu.eg/?lang=ar) | 2023 – 2027.
 - 🏆 2x **ECPC Finalist**.
 - 👨‍💻 Passionate about solving problems using **Artificial Intelligence**.
 - 🔭 Interests: `ML`, `Deep Learning`, `Computer Vision`, `Data Science`.
