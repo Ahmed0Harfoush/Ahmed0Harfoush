@@ -26,7 +26,7 @@
 - 🔭 Interests: `ML`, `Deep Learning`, `Computer Vision`, `Data Science`.
 - 📚 Currently shaping my path as an **AI Engineer**.
 - 🤓 Always eager to **learn new things**.
-- 💼 Open for new **job opportunities** → [My Resume](https://drive.google.com/file/d/1bB_KJs0raa1gvKvEL7jw7_x5H8St9bBG/view?usp=drive_link).
+- 💼 Open for new **job opportunities** → [My Resume](https://drive.google.com/file/d/1jKokFY8abAz8nfHJopOGG1TNbOj3wPl5/view?usp=sharing).
 - 🌐 Check my **portfolio website** → [My Website](https://portfolio-nhneub7rb2mshgpyp4izqk.streamlit.app/).
 
 ---
