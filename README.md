@@ -27,7 +27,7 @@
 - 📚 Currently shaping my path as an **AI Engineer**.
 - 🤓 Always eager to **learn new things**.
 - 💼 Open for new **job opportunities** → [My Resume](https://drive.google.com/file/d/1jKokFY8abAz8nfHJopOGG1TNbOj3wPl5/view?usp=sharing).
-- 🌐 Check my **portfolio website** → [My Website](https://portfolio-nhneub7rb2mshgpyp4izqk.streamlit.app/).
+- 🌐 Check my **portfolio website** → [My Website]([https://portfolio-nhneub7rb2mshgpyp4izqk.streamlit.app/](https://ahmedharfoush.netlify.app/)).
 
 ---
 
