@@ -24,7 +24,7 @@
 - 🔭 Interests: `ML`, `Deep Learning`, `Computer Vision`, `Data Science`.
 - 📚 Currently shaping my path as an **AI Engineer**.
 - 🤓 Always eager to **learn new things**.
-- 💼 Open for new **job opportunities** → [My Resume](https://drive.google.com/file/d/1jKokFY8abAz8nfHJopOGG1TNbOj3wPl5/view?usp=sharing).
+- 💼 Open for new **job opportunities** → [My Resume](https://drive.google.com/file/d/1KJyMRLxUO6rIY1purx4h56hUmlr74XT3/view?usp=sharing).
 - 🌐 Check my **portfolio website** → [My Website](https://ahmedharfoush.netlify.app/).
 
 ---
